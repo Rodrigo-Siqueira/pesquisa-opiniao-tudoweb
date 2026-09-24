@@ -24,9 +24,8 @@ Este projeto é um **Sistema de Pesquisa de Opinião** desenvolvido em Python pa
 ## 💻 Telas do Projeto
 
 ### Código Fonte
-*(Insira aqui o print da tela do seu código. Arraste a imagem para cá ou use o formato abaixo)*
-![Print do Código](./prints/fonte-1-2026-09-23 21-53-09.png)
-![Print do Código](./prints/fonte-2-2026-09-23 21-54-35.png)
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/37a5b577d58b8b1d15a46db37b16b3f49bd15bce/prints/fonte-1-2026-09-23%2021-53-09.png">
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/37a5b577d58b8b1d15a46db37b16b3f49bd15bce/prints/fonte-2-2026-09-23%2021-54-35.png">
 
 ### Execução do Programa
 *(Insira aqui o print da tela do terminal mostrando o programa rodando)*
