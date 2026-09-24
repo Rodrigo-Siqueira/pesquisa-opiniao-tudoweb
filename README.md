@@ -28,11 +28,10 @@ Este projeto é um **Sistema de Pesquisa de Opinião** desenvolvido em Python pa
 <img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/37a5b577d58b8b1d15a46db37b16b3f49bd15bce/prints/fonte-2-2026-09-23%2021-54-35.png">
 
 ### Execução do Programa
-*(Insira aqui o print da tela do terminal mostrando o programa rodando)*
-![Print da Execução](./prints/execucao-1-2026-09-23 22-01-41.png)
-![Print da Execução](./prints/execucao-2-2026-09-23 22-03-44.png)
-![Print da Execução](./prints/execucao-3-2026-09-23 22-04-22.png)
-![Print da Execução](./prints/execucao-4-2026-09-23 22-04-43.png)
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/d09e2c951dc36b92edc310d9e982446c179e17d7/prints/execucao-1-2026-09-23%2022-01-41.png">
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/d09e2c951dc36b92edc310d9e982446c179e17d7/prints/execucao-2-2026-09-23%2022-03-44.png">
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/d09e2c951dc36b92edc310d9e982446c179e17d7/prints/execucao-3-2026-09-23%2022-04-22.png">
+<img width="1359" height="718" alt="fonte" src="https://github.com/Rodrigo-Siqueira/pesquisa-opiniao-tudoweb/blob/d09e2c951dc36b92edc310d9e982446c179e17d7/prints/execucao-4-2026-09-23%2022-04-43.png">
 
 ## 🚀 Como executar o programa
 
